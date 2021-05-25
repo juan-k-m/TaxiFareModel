@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mona/code/juan-k-m/TaxiFareModel/mlruns/1/45de4985a28a4204bde333e851c812d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 45de4985a28a4204bde333e851c812d1
+run_uuid: 45de4985a28a4204bde333e851c812d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621949070479
+status: 1
+tags: []
+user_id: unknown
